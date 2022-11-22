@@ -1,0 +1,40 @@
+
+[submodule "modules/app_flutter_web3"]
+	path = modules/app_flutter_web3
+	url = git@github.com:afirez/app_flutter_web3.git
+[submodule "modules/flutter_hybrid_stack"]
+	path = modules/flutter_hybrid_stack
+	url = git@github.com:afirez/flutter_hybrid_stack.git
+[submodule "modules/webview_jsbridge_x"]
+	path = modules/webview_jsbridge_x
+	url = git@github.com:afirez/webview_jsbridge_x.git
+[submodule "modules/flutter_gl"]
+	path = modules/flutter_gl
+	url = https://github.com/wasabia/flutter_gl.git
+[submodule "modules/app-container-host"]
+	path = modules/app-container-host
+	url = git@github.com:afirez/app-container-host.git
+[submodule "modules/app-container-manager"]
+	path = modules/app-container-manager
+	url = git@github.com:afirez/app-container-manager.git
+[submodule "modules/app-container-plugin"]
+	path = modules/app-container-plugin
+	url = git@github.com:afirez/app-container-plugin.git
+[submodule "modules/plugin_app"]
+	path = modules/plugin_app
+	url = git@github.com:afirez/plugin_app.git
+[submodule "modules/opencv-face-detection"]
+	path = modules/opencv-face-detection
+	url = git@github.com:afirez/opencv-face-detection.git
+[submodule "modules/MLmobileapps"]
+	path = modules/MLmobileapps
+	url = git@github.com:afirez/MLmobileapps.git
+[submodule "modules/knight"]
+	path = modules/knight
+	url = git@github.com:afirez/knight.git
+[submodule "modules/book-mobile-ml"]
+	path = modules/book-mobile-ml
+	url = git@github.com:afirez/book-mobile-ml.git
+[submodule "modules/getx_quick_start"]
+	path = modules/getx_quick_start
+	url = https://github.com/ducafecat/getx_quick_start.git
